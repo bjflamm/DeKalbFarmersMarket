@@ -3,6 +3,9 @@
 ![Original Website](/images/dfm.png)
 <p align="center">DFM Original Website</p>
 
+
+
+
  The primary goal of this project is to improve the overall user experience of the DeKalb Farmers Market’s (DFM) site (dekalbfarmersmarket.com). I’ve broken it into more specific and measurable goals that can be implemented, tested, and improved upon while remaining in a feedback loop:
 *	**Improve readability**
   Improve readability by paring down content to better highlight and educate consumers on the history and reputation of DFM, its local and global agricultural sourcing, and its current events. 
