@@ -65,7 +65,7 @@ Link to full survey can be found [here](https://brandeis.qualtrics.com/jfe/form/
 
 # Target Audience and User Persona
 
-<img src="/images/user_persona.png" height="750" width="1000">
+<img src="/images/user_persona.jpg" >
 
 User persona developed using Xtensio for target audience of prospective vendors.
 
