@@ -24,3 +24,7 @@ Created for the UX Design course in the M.S. User-Centered Design program at Bra
     Improve the desirability of the site by introducing a theme that is consistent for each section and properly represents the brand of DFM 
 
 
+# Research Plan
+
+![Research Plan](/images/research_plan.png)
+
