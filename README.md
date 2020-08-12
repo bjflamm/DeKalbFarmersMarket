@@ -33,8 +33,8 @@ Created for the UX Design course in the M.S. User-Centered Design program at Bra
 
 # Site Review and Competitive Analysis
 The existing site was evaluated on the following characteristics (followed by their respective scores):
-**Brand and Visual Design - 5 out of 18 possible points
-Navigation - 4 out of 18 possible points
-Content - 4 out of 12 possible points
-Usability - 1 out of 3 possible points
-Accessibility - 6 out of 15 possible points**
+**Brand and Visual Design - 5 out of 18 possible points**
+**Navigation - 4 out of 18 possible points**
+**Content - 4 out of 12 possible points**
+**Usability - 1 out of 3 possible points**
+**Accessibility - 6 out of 15 possible points**
