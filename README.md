@@ -39,7 +39,7 @@ The existing site was evaluated on the following characteristics (followed by th
 * **Usability - 1 out of 3 possible points**
 * **Accessibility - 6 out of 15 possible points**
 
-Competitor sites were also evaluated against the same metrics as the DFM site - the resulting analyses highlighted areas of improvement and implementation possibilities for the wireframing process. Full write-up can be found here [/Site Review & Competitive Analysis]
+Competitor sites were also evaluated against the same metrics as the DFM site - the resulting analyses highlighted areas of improvement and implementation possibilities for the wireframing process. Full write-up can be found here [Site Review](/Site Review & Competitive Analysis)
 
 ![Site Review](/images/site_review.png)
 
