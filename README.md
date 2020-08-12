@@ -60,10 +60,19 @@ Competitor sites were also evaluated against the same metrics as the DFM site - 
 
 Survey created using Qualtrics to gain insight into user demographics of DFM as well as any interactions and perceptions they may have.
 
-Link to full survey can be found [here](https://brandeis.qualtrics.com/jfe/form/SV_bwKsHxCpnxq5TuJ)
+Link to full survey can be found [here](https://brandeis.qualtrics.com/jfe/form/SV_bwKsHxCpnxq5TuJ).
 
 
 # Target Audience and User Persona
+
+![User Persona](/images/user_persona.png)
+User persona developed for target audience of prospective vendors
+
+### Key Differentiators
+* **Interested in selling at DFM**
+* **Experienced with selling at other farmers markets**
+* **Emphasized concern for reputation and traditional communication methods**
+
 # Sitemap
 # Navigation Structure
 # Mobile Wireframes
