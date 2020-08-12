@@ -97,3 +97,11 @@ Mobile wireframes were created using Balsamiq. Full-size wireframe can be found 
 
 
 # Usability Test
+
+![Usability Test](/images/usability_test.png)
+
+Usability test plan, script, and recording can be found [here](../..//tree/master/deliverables).
+
+* **Focused on uncovering issues in first iteration**
+* **Test plan covers the logistics of the usability test**
+* **Resulted in new prototype ideas and a higher task success completion percentage**
