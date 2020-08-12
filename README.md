@@ -8,7 +8,6 @@ Created for the UX Design course in the M.S. User-Centered Design program at Bra
 * [User Survey](#User-Survey)
 * [Target Audience and User Persona](#Target-Audience-Segmentation-and-User-Persona)
 * [Sitemap](#Sitemap)
-* [Navigation Structure](#Navigation-Structure)
 * [Mobile Wireframes](#Mobile-Wireframes)
 * [Usability Test](#Usability-Test)
 
@@ -65,7 +64,7 @@ Link to full survey can be found [here](https://brandeis.qualtrics.com/jfe/form/
 
 # Target Audience and User Persona
 
-<img src="/images/user_persona.png"> 
+![User Persona](/images/user_persona.png)
 
 User persona developed using Xtensio for target audience of prospective vendors.
 
@@ -75,6 +74,14 @@ User persona developed using Xtensio for target audience of prospective vendors.
 * **Emphasized concern for reputation and traditional communication methods**
 
 # Sitemap
-# Navigation Structure
+
+![Sitemap](/images/sitemap.png)
+
+
+* **Designed to achieve project goal of improving navigational structure**
+* **Consolidates sections from current DFM site**
+* **Focused on assuring users of correct location when searching for information or completing tasks**
+
+
 # Mobile Wireframes
 # Usability Test
