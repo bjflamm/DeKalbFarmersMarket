@@ -66,7 +66,9 @@ Link to full survey can be found [here](https://brandeis.qualtrics.com/jfe/form/
 # Target Audience and User Persona
 
 ![User Persona](/images/user_persona.png)
-User persona developed for target audience of prospective vendors
+<img src="/images/user_persona.png" width="48">
+
+User persona developed using Xtensio for target audience of prospective vendors.
 
 ### Key Differentiators
 * **Interested in selling at DFM**
