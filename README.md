@@ -24,4 +24,3 @@ Created for the UX Design course in the M.S. User-Centered Design at Brandeis Un
     Improve the desirability of the site by introducing a theme that is consistent for each section and properly represents the brand of DFM 
 
 
-These goals all assume that users are actually being drawn to the site in the first place. Analyzing the DFM’s current marketing outlets, it could draw more users to the website (and ultimately the farmers market) by increasing its social media presence. It has a YouTube channel that hasn’t been updated in 4 years along with multiple reviews and a book written by its founder/owner. By modernizing its social media approach, the DFM could have the potential to significantly increase its overall website and market traffic.
