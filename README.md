@@ -6,8 +6,7 @@ Created for the UX Design course in the M.S. User-Centered Design program at Bra
 * [Research Plan](#Research-Plan)
 * [Site Review and Competitive Analysis](#Site-Review-And-Competitive-Analysis)
 * [User Survey](#User-Survey)
-* [Target Audience Segmentation](#Target-Audience-Segmentation)
-* [User Persona](#User-Persona)
+* [Target Audience and User Persona](#Target-Audience-Segmentation-and-User-Persona)
 * [Sitemap](#Sitemap)
 * [Navigation Structure](#Navigation-Structure)
 * [Mobile Wireframes](#Mobile-Wireframes)
@@ -64,8 +63,7 @@ Survey created using Qualtrics to gain insight into user demographics of DFM as 
 Link to full survey can be found [here](https://brandeis.qualtrics.com/jfe/form/SV_bwKsHxCpnxq5TuJ)
 
 
-# Target Audience Segmentation
-# User Persona
+# Target Audience and User Persona
 # Sitemap
 # Navigation Structure
 # Mobile Wireframes
