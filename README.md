@@ -86,4 +86,14 @@ User persona developed using Xtensio for target audience of prospective vendors.
 # Mobile Wireframes
 
 ![Mobile Wireframes](/images/mobile_wireframes.png)
+
+Mobile wireframes were created using Balsamiq. Full-size wireframe can be found [here](https://share.balsamiq.com/g/pCdJN5xdznbbWQQ1e2daH1.png).
+
+* **Goal was paring down content to only essential and intuitive sections**
+* **Based on proposed sitemap**
+* **First iteration prior to usability test**
+
+
+
+
 # Usability Test
