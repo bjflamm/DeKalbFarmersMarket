@@ -11,10 +11,13 @@ Created for the UX Design course in the M.S. User-Centered Design program at Bra
 * [Mobile Wireframes](#Mobile-Wireframes)
 * [Usability Test](#Usability-Test)
 
+<br />
+<br />
+<br />
+
 ![Original Website](/images/dfm.png)
 <p align="center">DFM Original Website</p>
 
-<br />
 <br />
 <br />
 <br />
@@ -33,13 +36,17 @@ Created for the UX Design course in the M.S. User-Centered Design program at Bra
     
     Improve the desirability of the site by introducing a theme that is consistent for each section and properly represents the brand of DFM 
 
-
-
+<br />
+<br />
+<br />
 
 # Research Plan
 
 ![Research Plan](/images/research_plan.png)
 
+<br />
+<br />
+<br />
 
 # Site Review and Competitive Analysis
 The existing site was evaluated on the following characteristics (followed by their respective scores):
@@ -53,6 +60,9 @@ Competitor sites were also evaluated against the same metrics as the DFM site - 
 
 ![Site Review](/images/site_review.png)
 
+<br />
+<br />
+<br />
 
 # User Survey
 
@@ -62,6 +72,9 @@ Survey created using Qualtrics to gain insight into user demographics of DFM as 
 
 Link to full survey can be found [here](https://brandeis.qualtrics.com/jfe/form/SV_bwKsHxCpnxq5TuJ).
 
+<br />
+<br />
+<br />
 
 # Target Audience and User Persona
 
@@ -74,6 +87,10 @@ User persona developed using Xtensio for target audience of prospective vendors.
 * **Experienced with selling at other farmers markets**
 * **Emphasized concern for reputation and traditional communication methods**
 
+<br />
+<br />
+<br />
+
 # Sitemap
 
 ![Sitemap](/images/sitemap.png)
@@ -83,6 +100,9 @@ User persona developed using Xtensio for target audience of prospective vendors.
 * **Consolidates sections from current DFM site**
 * **Focused on assuring users of correct location when searching for information or completing tasks**
 
+<br />
+<br />
+<br />
 
 # Mobile Wireframes
 
@@ -94,8 +114,9 @@ Mobile wireframes were created using Balsamiq. Full-size wireframe can be found 
 * **Based on proposed sitemap**
 * **First iteration prior to usability test**
 
-
-
+<br />
+<br />
+<br />
 
 # Usability Test
 
