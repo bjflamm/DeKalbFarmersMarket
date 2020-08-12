@@ -14,9 +14,10 @@ Created for the UX Design course in the M.S. User-Centered Design program at Bra
 ![Original Website](/images/dfm.png)
 <p align="center">DFM Original Website</p>
 
-
-
-
+<br />
+<br />
+<br />
+<br />
 
 # Goals
  The primary goal of this project is to improve the overall user experience of the DeKalb Farmers Market’s (DFM) site (dekalbfarmersmarket.com). I’ve broken it into more specific and measurable goals that can be implemented, tested, and improved upon while remaining in a feedback loop:
