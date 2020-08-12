@@ -6,7 +6,7 @@ Created for the UX Design course in the M.S. User-Centered Design program at Bra
 * [Research Plan](#Research-Plan)
 * [Site Review and Competitive Analysis](#Site-Review-And-Competitive-Analysis)
 
-![Original Website](/images/dfm.png)
+[Original Website](/images/dfm.png)
 <p align="center">DFM Original Website</p>
 
 
