@@ -1,5 +1,5 @@
 # DeKalb Farmers Market Redesign
-Created for the UX Design course in the M.S. User-Centered Design at Brandeis University
+Created for the UX Design course in the M.S. User-Centered Design program at Brandeis University
 
 
 ![Original Website](/images/dfm.png)
