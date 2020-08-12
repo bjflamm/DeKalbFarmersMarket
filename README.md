@@ -6,7 +6,7 @@ Created for the UX Design course in the M.S. User-Centered Design program at Bra
 * [Research Plan](#Research-Plan)
 * [Site Review and Competitive Analysis](#Site-Review-And-Competitive-Analysis)
 
-[Original Website](/images/dfm.png)
+![Original Website](/images/dfm.png)
 <p align="center">DFM Original Website</p>
 
 
@@ -43,7 +43,7 @@ The existing site was evaluated on the following characteristics (followed by th
 * **Usability - 1 out of 3 possible points**
 * **Accessibility - 6 out of 15 possible points**
 
-Competitor sites were also evaluated against the same metrics as the DFM site - the resulting analyses highlighted areas of improvement and implementation possibilities for the wireframing process. Full write-up can be found [/deliverables/]
+Competitor sites were also evaluated against the same metrics as the DFM site - the resulting analyses highlighted areas of improvement and implementation possibilities for the wireframing process. Full write-up can be found [here](/deliverables/Site-Review-And-Competitive-Analysis.xlsx)
 
 ![Site Review](/images/site_review.png)
 
