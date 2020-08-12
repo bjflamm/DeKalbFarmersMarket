@@ -84,4 +84,6 @@ User persona developed using Xtensio for target audience of prospective vendors.
 
 
 # Mobile Wireframes
+
+![Mobile Wireframes](/images/mobile_wireframes.png)
 # Usability Test
