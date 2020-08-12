@@ -56,6 +56,14 @@ Competitor sites were also evaluated against the same metrics as the DFM site - 
 
 
 # User Survey
+
+![Survey](/images/survey.png)
+
+Survey created using Qualtrics to gain insight into user demographics of DFM as well as any interactions and perceptions they may have.
+
+Link to full survey can be found [here](https://brandeis.qualtrics.com/jfe/form/SV_bwKsHxCpnxq5TuJ)
+
+
 # Target Audience Segmentation
 # User Persona
 # Sitemap
