@@ -5,6 +5,13 @@ Created for the UX Design course in the M.S. User-Centered Design program at Bra
 * [Goals](#Goals)
 * [Research Plan](#Research-Plan)
 * [Site Review and Competitive Analysis](#Site-Review-And-Competitive-Analysis)
+* [User Survey](#User-Survey)
+* [Target Audience Segmentation](#Target-Audience-Segmentation)
+* [User Persona](#User-Persona)
+* [Sitemap](#Sitemap)
+* [Navigation Structure](#Navigation-Structure)
+* [Mobile Wireframes](#Mobile-Wireframes)
+* [Usability Test](#Usability-Test)
 
 ![Original Website](/images/dfm.png)
 <p align="center">DFM Original Website</p>
@@ -48,3 +55,10 @@ Competitor sites were also evaluated against the same metrics as the DFM site - 
 ![Site Review](/images/site_review.png)
 
 
+# User Survey
+# Target Audience Segmentation
+# User Persona
+# Sitemap
+# Navigation Structure
+# Mobile Wireframes
+# Usability Test
